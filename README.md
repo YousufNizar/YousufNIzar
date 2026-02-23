@@ -28,9 +28,5 @@
 [![](https://visitcount.itsvg.in/api?id=YousufNizar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect With Me On
- <a href="https:/www.linkedin.com/in/yousufnizar" target="_blank">
-  <img height="50" width="50" 
-       src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" 
-       alt="LinkedIn Logo">
-</a>
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/yousufnizar)
 
