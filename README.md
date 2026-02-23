@@ -21,8 +21,6 @@ CS undergraduate @ University of Westminster
 [![Yousuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousufNizar)](https://github.com/YousufNizar/github-readme-stats)
 
 
-![YousufNizar GitHub stats](https://github-readme-stats.vercel.app)
-
 
 [![Leetcode Stats]
 [![Yousufs github activity graph]
